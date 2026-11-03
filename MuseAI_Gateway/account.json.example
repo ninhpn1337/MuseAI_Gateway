@@ -1,0 +1,9 @@
+{
+  "label": "my-account",
+  "cookies": {
+    "datr": "YOUR_DATR_COOKIE_HERE",
+    "hatch_sess": "YOUR_HATCH_SESS_COOKIE_HERE",
+    "hatch_vml": "YOUR_HATCH_VML_COOKIE_HERE",
+    "hatch_native_auth_device": "YOUR_HATCH_DEVICE_COOKIE_HERE"
+  }
+}
